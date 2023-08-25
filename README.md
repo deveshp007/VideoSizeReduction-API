@@ -69,4 +69,4 @@ PORT=3000
 
 ## Deployed Server Link
 
-The API is deployed and accessible at: [API_URL](https://your-api-url.com)
+The API is deployed and accessible at: [API_URL](https://video-size-reduction-api.vercel.app)
